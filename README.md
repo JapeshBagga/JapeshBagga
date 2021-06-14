@@ -2,9 +2,9 @@
 **JapeshBagga/JapeshBagga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<p align="center">
+
   ### 𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; ! 👋
-</p>
+
 ---
 
 <!--- 🔭 I’m currently working on front End -->
