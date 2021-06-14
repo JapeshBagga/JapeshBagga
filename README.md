@@ -5,6 +5,8 @@
 <p align="center">
   ### 𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; ! 👋
 </p>
+---
+
 <!--- 🔭 I’m currently working on front End -->
 - 👯 I’m looking to collaborate on developing and improving my repositories
 - 🤔 I’m looking for help with Front End
@@ -18,7 +20,7 @@
 ---
 <p align="center">
 <!--   <img src="https://gpvc.arturio.dev/JayantGoel001" alt="profile views"> •   -->
-  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=JayantGoel001&style=flat&color=brightgreen"> •   
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=JapeshBagga&style=flat&color=brightgreen"> •   
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/JayantGoel001?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/JayantGoel001?label=Stars" alt="Total Stars">
 </p>
