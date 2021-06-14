@@ -21,8 +21,7 @@
 <p align="center">
 <!--   <img src="https://gpvc.arturio.dev/JayantGoel001" alt="profile views"> •   -->
   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=JapeshBagga&style=flat&color=brightgreen"> •   
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/JayantGoel001?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/JayantGoel001?label=Stars" alt="Total Stars">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/JapeshBagga?label=Followers&style=social"> •   
 </p>
 
 
