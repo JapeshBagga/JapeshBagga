@@ -9,8 +9,7 @@
 
 <!--- 🔭 I’m currently working on front End -->
 - 👯 I’m looking to collaborate on developing and improving my repositories
-- 🤔 I’m looking for help with Front End
-- 💬 Ask me about Project, New Technology, Cloud, AI
+- 💬 Ask me about latest Project, New Technology, Cloud, AI
 - 😄 NickName: JP
 - 📫 How to reach me: Email me at japbag2005@gmail.com
 - 🥅 2021 Goals: Contribute more to Open Source projects
