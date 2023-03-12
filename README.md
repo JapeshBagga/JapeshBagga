@@ -7,12 +7,12 @@
 
 ---
 
-<!--- 🔭 I’m currently working on front End -->
+- 🔭 Shifted to gitlab, Refer: https://gitlab.com/japesh.bagga 
 - 👯 I’m looking to collaborate on developing and improving my repositories
 - 💬 Ask me about latest Project, New Technology, Cloud, AI
 - 😄 NickName: JP
 - 📫 How to reach me: Email me at japbag2005@gmail.com
-- 🥅 2021 Goals: Contribute more to Open Source projects
+<!-- - 🥅 2021 Goals: Contribute more to Open Source projects -->
 - ⚡ Fun fact: I don't like slow laptop and pc but love watching about businesses
 
 
