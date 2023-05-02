@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 Shifted to gitlab, Refer: https://gitlab.com/japesh.bagga 
+- 🔭 Shifted to Gitlab, Refer: https://gitlab.com/japesh.bagga 
 - 👯 I’m looking to collaborate on developing and improving my repositories
 - 💬 Ask me about latest Project, New Technology, Cloud, AI
 - 😄 NickName: JP
